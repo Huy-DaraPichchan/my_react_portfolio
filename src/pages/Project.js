@@ -214,16 +214,8 @@ const PortfolioHomePage = () => {
           >
             <FaGithub size={28} />
           </a>
-          {/* <a
-            className='mr-4 text-blue-600 hover:opacity-70'
-            href={socialMediaLinks.linkedin}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <FaLinkedin size={28} />
-          </a> */}
           <a
-            className='mr-4 text-blue-600 hover:opacity-70'
+            className='mr-4 tgitext-blue-600 hover:opacity-70'
             href={socialMediaLinks.facebook}
             target='_blank'
             rel='noopener noreferrer'
